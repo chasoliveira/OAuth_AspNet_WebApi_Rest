@@ -1,0 +1,7 @@
+packages
+OAuthAspNetWebApiRest.Api/bin
+OAuthAspNetWebApiRest.Api/obj
+OAuthAspNetWebApiRest.Data/bin
+OAuthAspNetWebApiRest.Data/obj
+OAuthAspNetWebApiRest.Domain/bin
+OAuthAspNetWebApiRest.Domain/obj
